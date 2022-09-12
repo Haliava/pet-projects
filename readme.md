@@ -1,6 +1,5 @@
 ## В этом репозитории расположены все небольшие проекты JS, в которых используются некоторые ключевые навыки и технологии
 
-(Везде в качестве стилей использовался Bootstrap)
 #### название проекта: технологии
 1. #### **todo-app**: REST API, разделение интерфейса и реализации (modules), async/await, localStorage/server storage
 2. #### **star-wars-catalogue**: REST API, Promise.All, dynamic import, async/await
