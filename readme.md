@@ -1,7 +1,7 @@
 ## В этом репозитории расположены все небольшие проекты JS, в которых используются некоторые ключевые навыки и технологии
 
 #### название проекта: технологии
-1. #### **todo-app**: REST API, разделение интерфейса и реализации (modules), async/await, localStorage/server storage
+1. #### **todo-app**: REST API, архитектурный MVC (модель и вид соединены), async/await, localStorage/server storage
 2. #### **star-wars-catalogue**: REST API, Promise.All, dynamic import, async/await
 3. #### **blog-with-bad-server-connection**: exceptions, REST API, разделение на модули
 4. #### **events**:
